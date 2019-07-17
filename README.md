@@ -8,11 +8,11 @@ projeto da disciplina de sistemas de multimídia
 
 Tons de imagens
 <br />
-![](C:\Users\jessi\OneDrive\Documents\V periodo\multimídia\resultado.png)
+![picture](C:/Users/jessi/OneDrive/Documents/V periodo/multimídia/resultado.png)
 
 Quantidade de objetos
 <br />
-![](C:\Users\jessi\OneDrive\Documents\V periodo\multimídia\count objetos.png)
+![picture](C:\Users\jessi\OneDrive\Documents\V periodo\multimídia\count objetos.png)
 
 
 ***Questão 2***
